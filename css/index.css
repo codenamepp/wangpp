@@ -1,0 +1,32 @@
+body{
+    background: linear-gradient(to top, #716fe9 0%,#96597b 50%);
+}
+.myheader{
+    background-color: #1d0b15;
+}
+.myheader hr{
+    background-color: whitesmoke;
+}
+.myheader h1{
+    color: white;
+}
+.myheader h3{
+    color: white;
+}
+.myheader p{
+    color: white;
+}
+.myheader pre{
+    color: white;
+}
+.jumbotron{
+    background-color:black ;
+}
+.hhh{
+    background-color: #96597b;
+}
+@media screen and (min-width: 992px){
+    .myhigh{
+        height: 980px;
+    }
+}
